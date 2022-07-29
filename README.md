@@ -2,7 +2,7 @@
 ## Overview: 
 **24 Hour Change Report** - 24 Hour Change Report is a daily report of changes that are requested with-in 24 hours. Through a custom search made on ISIT we record the daily requests and present them on Excel workbooks daily. 
 
-## Team: 
+## Team 
 
 Judith Barringer-Jenkins, Donna Smith
 ______________________________________________
@@ -14,3 +14,10 @@ ______________________________________________
 **Available** – 99.9% Monday - Monday excluding holidays.
 
 _______________________________________________
+
+## Objectives
+
+•	Availability - 99.9% availability 3pm - 4pm M-M excluding holidays.
+•	Response Time - 99% of all pulled reports will be recorded within same business day.
+•	Accuracy – 99.9% of all reports pulled and recorded.
+
