@@ -17,7 +17,24 @@ _______________________________________________
 
 ## Objectives
 
-**•	Availability** - 99.9% availability 3pm - 4pm M-M excluding holidays.
+**•	Availability** - 99.9% availability 3pm - 4pm 24/7 365.
 **•	Response Time** - 99% of all pulled reports will be recorded within same business day.
 **•	Accuracy** – 99.9% of all reports pulled and recorded.
 
+________________________________________________
+
+## Agreements
+
+**• Availability** - 99.9% availability 3pm - 5pm 24/7 365.
+**• Response Time** - 99.9% of all pulled reports will be recorded within same business day.
+**• Accuracy** - 99.9% of all reports pulled and reported.
+
+_________________________________________________
+
+## Quick Links
+- [How To - Daily Change Report](https://confluence.rsi.lexisnexis.com/display/NW/How+to+-+Daily+Change+Report+M-F+15%3A00)
+
+___________________________________________________
+
+## Contact
+- Email: Darrel.Blot@LexisNexisRisk.com
