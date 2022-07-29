@@ -9,15 +9,15 @@ ______________________________________________
 
 ## Indicators
 
-**Accuracy** – 99.9% Accurate information is necessary to keep track of times and dates of each requested item.
-**Response Time** – 99.9% All Daily change requests reports pulled and recorded within same day. 
-**Available** – 99.9% Monday - Monday excluding holidays.
+**• Accuracy** – 99.9% Accurate information is necessary to keep track of times and dates of each requested item.
+**• Response Time** – 99.9% All Daily change requests reports pulled and recorded within same day. 
+**• Available** – 99.9% Monday - Monday excluding holidays.
 
 _______________________________________________
 
 ## Objectives
 
-•	Availability - 99.9% availability 3pm - 4pm M-M excluding holidays.
-•	Response Time - 99% of all pulled reports will be recorded within same business day.
-•	Accuracy – 99.9% of all reports pulled and recorded.
+**•	Availability** - 99.9% availability 3pm - 4pm M-M excluding holidays.
+**•	Response Time** - 99% of all pulled reports will be recorded within same business day.
+**•	Accuracy** – 99.9% of all reports pulled and recorded.
 
