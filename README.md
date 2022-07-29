@@ -1,6 +1,6 @@
-# NOC-as-a-Service-24-Hour-Change-Report
+# NOC-as-a-Service-Daily-Change-Report
 ## Overview: 
-**24 Hour Change Report** - 24 Hour Change Report is a daily report of changes that are requested with-in 24 hours. Through a custom search made on ISIT we record the daily requests and present them on Excel workbooks daily. 
+**Daily Change Report** - Daily Change Report is a daily report of changes that are requested with-in 24 hours. Through a custom search made on ISIT we record the daily requests and present them on Excel workbooks daily. 
 
 ## Team 
 
